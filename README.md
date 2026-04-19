@@ -13,3 +13,6 @@ Este repositorio documenta el procedimiento para el particionado, formateo y asi
 
 ## ✅ Resultados
 Montaje exitoso de unidades SSD (Team Group y Gigabyte) manteniendo la integridad del sistema operativo en el volumen C.
+
+1. **diskpart**: Inicio de la herramienta.
+![Inicio de Diskpart](1.jpeg)
