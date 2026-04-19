@@ -16,3 +16,10 @@ Montaje exitoso de unidades SSD (Team Group y Gigabyte) manteniendo la integrida
 
 1. **diskpart**: Inicio de la herramienta.
 ![Inicio de Diskpart](1.jpeg)
+
+2. **diskpart**: Inicio de la herramienta.
+![Inicio de Diskpart](2.jpeg)
+
+3. **diskpart**: Inicio de la herramienta.
+![Inicio de Diskpart](3.jpeg)
+
