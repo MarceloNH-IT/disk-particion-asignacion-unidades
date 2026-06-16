@@ -65,7 +65,20 @@ Montaje exitoso de unidades SSD (Team Group y Gigabyte) manteniendo la integrida
 9. **diskpart**: Inicio de la herramienta.
 ![Inicio de Diskpart](9.jpg)
 
+## 📌 Conclusión
 
+Este laboratorio demuestra el uso práctico de **Diskpart** como herramienta de administración de discos en Windows.  
+Se logró particionar, formatear y asignar unidades SSD de manera segura, manteniendo la integridad del sistema operativo en el volumen principal (C:).  
+
+La práctica refuerza competencias clave de un técnico de soporte y administración de sistemas:
+- [Diagnóstico y gestión de almacenamiento](ca://s?q=Diagnostico_y_gestion_de_almacenamiento_en_Windows)
+- [Aplicación de comandos en entorno real](ca://s?q=Aplicacion_de_comandos_en_Windows)
+- [Documentación clara de procedimientos](ca://s?q=Documentacion_de_procedimientos_en_GitHub)
+
+Este repositorio forma parte de mi portafolio IT en GitHub, donde documento laboratorios y prácticas cotidianas para mostrar mi progreso en **Networking, IT y Administración de Sistemas**.
+
+
+![Inicio de Diskpart](FotoNOC.jpg)
 
 
 * **💼 LinkedIn**: [Horacio Marcelo Nuñez](https://www.linkedin.com/in/marcelo-nunez-it/?skipRedirect=true)
