@@ -88,8 +88,6 @@ Se logró particionar, formatear y asignar unidades SSD de manera segura, manten
 Este repositorio forma parte de mi portafolio IT en GitHub, donde documento laboratorios y prácticas cotidianas para mostrar mi progreso en **Networking, IT y Administración de Sistemas**.
 
 
-![Inicio de Diskpart](FotoNOC.jpg)
-
 
 * **💼 LinkedIn**: [Horacio Marcelo Nuñez](https://www.linkedin.com/in/marcelo-nunez-it/?skipRedirect=true)
 * **📬 Correo Electrónico**: [marcelonh86@gmail.com](marcelonh86@gmail.com)
