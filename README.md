@@ -70,10 +70,20 @@ Montaje exitoso de unidades SSD (Team Group y Gigabyte) manteniendo la integrida
 Este laboratorio demuestra el uso práctico de **Diskpart** como herramienta de administración de discos en Windows.  
 Se logró particionar, formatear y asignar unidades SSD de manera segura, manteniendo la integridad del sistema operativo en el volumen principal (C:).  
 
-La práctica refuerza competencias clave de un técnico de soporte y administración de sistemas:
-- [Diagnóstico y gestión de almacenamiento](ca://s?q=Diagnostico_y_gestion_de_almacenamiento_en_Windows)
-- [Aplicación de comandos en entorno real](ca://s?q=Aplicacion_de_comandos_en_Windows)
-- [Documentación clara de procedimientos](ca://s?q=Documentacion_de_procedimientos_en_GitHub)
+![Configuración del Adaptador de Red Puente](FotoNOC.jpg)
+## 🤝 Conclusión y Contacto
+
+![GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=MarceloNH-IT&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MarceloNH-IT&layout=compact&theme=radical)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MarceloNH-IT&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=MarceloNH-IT&color=blue&style=flat)
+
+* **💼 LinkedIn**: [Horacio Marcelo Nuñez](https://linkedin.com) 
+* **📬 Correo Electrónico**: [marcelonh86@gmail.com](marcelonh86@gmail.com)
+* **🚀 GitHub**: [@MarceloNunez-NOC](https://github.com/MarceloNunez-NOC)
 
 Este repositorio forma parte de mi portafolio IT en GitHub, donde documento laboratorios y prácticas cotidianas para mostrar mi progreso en **Networking, IT y Administración de Sistemas**.
 
