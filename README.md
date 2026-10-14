@@ -84,13 +84,8 @@ Se logró particionar, formatear y asignar unidades SSD de manera segura, manten
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=MarceloNH-IT.MarceloNH-IT&style=flat&color=blue)
 
-* **💼 LinkedIn**: [Horacio Marcelo Nuñez](https://linkedin.com) 
-* **📬 Correo Electrónico**: [marcelonh86@gmail.com](marcelonh86@gmail.com)
-* **🚀 GitHub**: [@MarceloNunez-NOC](https://github.com/MarceloNunez-NOC)
 
 Este repositorio forma parte de mi portafolio IT en GitHub, donde documento laboratorios y prácticas cotidianas para mostrar mi progreso en **Networking, IT y Administración de Sistemas**.
-
-
 
 * **💼 LinkedIn**: [Horacio Marcelo Nuñez](https://www.linkedin.com/in/marcelo-nunez-it/?skipRedirect=true)
 * **📬 Correo Electrónico**: [marcelonh86@gmail.com](marcelonh86@gmail.com)
