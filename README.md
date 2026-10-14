@@ -1,5 +1,8 @@
 # Guía Práctica: Gestión de Unidades con Diskpart
 
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=MarceloNH-IT.MarceloNH-IT&style=flat&color=blue)
+
+
 Este repositorio documenta el procedimiento para el particionado, formateo y asignación de unidades SSD en Windows mediante la línea de comandos.
 
 ## 🚀 Pasos Realizados
@@ -79,7 +82,7 @@ Se logró particionar, formatear y asignar unidades SSD de manera segura, manten
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MarceloNH-IT&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=MarceloNH-IT&color=blue&style=flat)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=MarceloNH-IT.MarceloNH-IT&style=flat&color=blue)
 
 * **💼 LinkedIn**: [Horacio Marcelo Nuñez](https://linkedin.com) 
 * **📬 Correo Electrónico**: [marcelonh86@gmail.com](marcelonh86@gmail.com)
